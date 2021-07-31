@@ -8,7 +8,7 @@ On each page there is an interactive filtering option - the visualisation change
 
 The project was written in R and graphs were created using ggplot. 
 
-The app can be viewed on [shinyapps.io]().
+The app can be viewed on [shinyapps.io](https://kingasiwiec.shinyapps.io/R_Shiny_App/).
 
 
 _______________________________________________________
