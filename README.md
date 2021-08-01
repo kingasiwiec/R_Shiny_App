@@ -18,6 +18,10 @@ This project was created as part of Coursera specialization [Data Visualization 
 
 I used a dataset published under Creative Commons BY license by [Our World in Data](https://ourworldindata.org) and created by Hannah Ritchie, Max Roser and Edouard Mathieu. The dataset is available [here](https://github.com/owid/energy-data). An inspiration for the creation of the graphs was [this](https://ourworldindata.org/renewable-energy) page.
 
+
+_______________________________________________________
+
+
 Page1:
 ![image](https://user-images.githubusercontent.com/66141512/127769877-9764d68c-7490-409c-8f56-e5e40682eaf1.png)
 
